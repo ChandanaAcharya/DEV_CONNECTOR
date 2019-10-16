@@ -1,2 +1,17 @@
-# DEV_CONNECTOR
- A place where developers can create an account and add their educational and professional description (technologies, experience, GitHub repo etc., and also see the profile of other developers all with necessary security protocols in place using MERN stack
+# Devprofile
+MERN stack application with user authentication and developer profiles
+
+
+
+```bash
+# Install server dependencies
+npm install
+
+# Install client dependencies
+cd client
+npm install
+
+# Run both Express & React from root
+npm run dev
+```
+
